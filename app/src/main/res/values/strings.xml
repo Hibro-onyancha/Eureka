@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eureka</string>
+    <string name="cancel">cancel</string>
+    <string name="rule_don_t_let_the_plane_fall_lest_you_loose_10_pts">Don\'t let the plane fall ,lest you loose</string>
+    <string name="eureka">Eureka!</string>
+    <string name="play_game">play game</string>
+    <string name="high_score">High score:</string>
+    <string name="choose_subject">choose challenge</string>
+    <string name="answer_questions_under_mathematics">answer questions under mathematics</string>
+    <string name="questions_contain_basic_and_operations">questions contain basic +,-,* and / operations</string>
+    <string name="_10_pts_per_correct_answer_given">10 pts per correct answer given</string>
+    <string name="_5pts_per_every_wrong_answer">-5pts per every wrong answer</string>
+    <string name="basic_arithmetics">Basic Arithmetics</string>
+</resources>
